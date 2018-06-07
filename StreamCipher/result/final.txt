@@ -1,0 +1,20 @@
+0:
+The secure message is: When using a stream cipher, never use the key more than once.
+1:
+If you accept your limitations you go beyond them.
+2:
+Comfort is the enemy of arhievement.
+3:
+Strive to make every day joyful and meaningful.
+4:
+The world is big and life is short. Live the life the way you want.
+5:
+Do one thing at a time, as do well.
+6:
+Keep on going never give up.
+7:
+Action speak louder than words.
+8:
+Knowledge makes humble, ignorance makes proud.
+9:
+The best preparation for tomorrow is doing your best today.
